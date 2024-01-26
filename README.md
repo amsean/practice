@@ -11,7 +11,6 @@ Regular
 ~~some text.~~
 
 > Some text.
->
 > Some text.
 
 ```python
